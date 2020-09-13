@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class OddEvenGame
+public class OddEven
 {
     public static void main(String[] args)
     {
